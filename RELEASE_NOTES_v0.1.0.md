@@ -1,4 +1,4 @@
-## 📦 Web3 ID Issuer – v0.1.0
+## Web3 ID Issuer – v0.1.0
 
 This is the initial release of the full-stack Web3 identity & verifiable credential issuance framework. It enables:
 
