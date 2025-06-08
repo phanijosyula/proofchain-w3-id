@@ -1,8 +1,8 @@
-# 📦 Changelog
+# Changelog
 
 ## [v0.1.0] - Initial Release
 
-### 🚀 Features
+### Features
 - Solidity smart contract for credential issuance and revocation
 - Node.js DID issuer API with Verifiable Credential JWT output
 - React-based DApp to issue, preview, and export credentials
@@ -12,7 +12,7 @@
 - Hardhat deployment scripts and test coverage
 - GitHub Actions CI for automated builds
 
-### 📁 Directory Structure
+###  Directory Structure
 - `contracts/` – Solidity smart contracts (Hardhat)
 - `issuer-api/` – DID credential issuing server (Express + ethr-did)
 - `app/` – React DApp (Next.js + ethers.js + Tailwind)
